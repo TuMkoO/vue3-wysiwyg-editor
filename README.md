@@ -10,7 +10,7 @@
 
 ---
 
-### Live demo: https://wysiwyg-vue.vercel.app
+### Live demo: https://vue3-wysiwyg-editor.vercel.app/
 
 Возможности приложения:
 
