@@ -1,6 +1,6 @@
 # WYSIWYG Editor
 
-Приложение WYSIWYG (произносится [ˈwɪziwɪɡ], является аббревиатурой от англ. What You See Is What You Get, «что видишь, то и получишь») - простой редактор для формативания текста.
+Приложение WYSIWYG (произносится [ˈwɪziwɪɡ], является аббревиатурой от англ. What You See Is What You Get, «что видишь, то и получишь») - простой редактор для формативания текста на Vue 3.
 
 ![WYSIWYG Vue](src/assets/preview.jpg "Preview WYSIWYG Editor")
 
